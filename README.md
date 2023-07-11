@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i'm okechukwu 👋
 # 💫 About Me:
 I'm currently  working on writing scripts and developing a news aggregator website using django for a start up<br>I'm currently looking forward to collaborate on any web development project<br>I'm currently looking for help building fullstack applications using django & react<br>I'm currently learning react as my front-end language<br>Ask me anything about web dev, django, python, javascript, react.js<br>Fun fact - I'm lazy but smart and highly skilled
 
