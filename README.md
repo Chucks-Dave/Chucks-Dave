@@ -1,6 +1,7 @@
 ### Hi there i'm okechukwu 👋, how may i be of help ?
 # 💫 About Me:
-I'm currently  working on writing scripts and developing a news aggregator website using django for a tech start-up company<br>I'm currently looking forward to collaborate on any web development project<br>I'm currently looking for help building fullstack applications using django & react<br>I'm currently learning react as my front-end language<br>Ask me anything about web dev, django, python, javascript, react.js<br>Fun fact - Never let your computer know you're in a rush ...
+I'm a passionate software developer with a love for creating innovative solutions and contributing to open-source projects. With a strong background in full-stack development, I enjoy working on both the frontend and backend to build seamless and efficient applications.
+I'm currently learning about ai/machine learning and how to integrate it into the web 
 
 
 ## 🌐 Socials:
